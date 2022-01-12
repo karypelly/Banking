@@ -1,0 +1,88 @@
+Sin:       123456
+Name:      Kary Shane
+Deposit:   0.0
+Wthdrwl:   0.0
+date:      Mon Oct 21 21:34:22 EDT 2019
+Open:      true
+Balance:   0.0
+
+Sin:       987654
+Name:      Sandi Pelly
+Deposit:   0.0
+Wthdrwl:   0.0
+date:      Mon Oct 21 21:34:22 EDT 2019
+Open:      true
+Balance:   0.0
+
+Sin:       987654
+Name:      Kayla Faye
+Deposit:   0.0
+Wthdrwl:   0.0
+date:      Mon Oct 21 21:34:22 EDT 2019
+Open:      true
+Balance:   0.0
+
+Sin:       123456
+Name:      Kary Shane
+Deposit:   0.0
+Wthdrwl:   25.0
+date:      Mon Oct 21 21:34:22 EDT 2019
+Open:      true
+Balance:   -45.0
+
+Sin:       123456
+Name:      Kary Shane
+Deposit:   0.0
+Wthdrwl:   200.0
+date:      Mon Oct 21 21:34:22 EDT 2019
+Open:      true
+Balance:   -90.0
+
+Sin:       123456
+Name:      Kary Shane
+Deposit:   0.0
+Wthdrwl:   20.0
+date:      Mon Oct 21 21:34:22 EDT 2019
+Open:      true
+Balance:   -135.0
+
+Sin:       123456
+Name:      Kary Shane
+Deposit:   1000.0
+Wthdrwl:   0.0
+date:      Mon Oct 21 21:34:22 EDT 2019
+Open:      true
+Balance:   865.0
+
+Sin:       987654
+Name:      Sandi Pelly
+Deposit:   0.0
+Wthdrwl:   25.0
+date:      Mon Oct 21 21:34:22 EDT 2019
+Open:      true
+Balance:   -30.0
+
+Sin:       987654
+Name:      Sandi Pelly
+Deposit:   0.0
+Wthdrwl:   200.0
+date:      Mon Oct 21 21:34:22 EDT 2019
+Open:      true
+Balance:   -235.0
+
+Sin:       987654
+Name:      Sandi Pelly
+Deposit:   0.0
+Wthdrwl:   20.0
+date:      Mon Oct 21 21:34:22 EDT 2019
+Open:      true
+Balance:   -260.0
+
+Sin:       987654
+Name:      Sandi Pelly
+Deposit:   1000.0
+Wthdrwl:   0.0
+date:      Mon Oct 21 21:34:22 EDT 2019
+Open:      true
+Balance:   740.0
+
